@@ -1,0 +1,326 @@
+INFO  | 2022-06-08 21:07:54 | [main] db.DBManager (DBManager.java:45) - HSQL Server started
+INFO  | 2022-06-08 21:24:14 | [main] db.DBManager (DBManager.java:42) - HSQL Server started
+INFO  | 2022-06-08 21:24:14 | [main] db.DBManager (DBManager.java:113) - Table alerts created
+INFO  | 2022-06-08 21:24:14 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra already exists
+INFO  | 2022-06-08 21:24:14 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:24:14 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc already exists
+INFO  | 2022-06-08 21:24:14 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:24:14 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra1 already exists
+INFO  | 2022-06-08 21:24:14 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:24:14 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc1 already exists
+INFO  | 2022-06-08 21:24:14 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:24:14 | [main] db.DBManager (DBManager.java:53) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:33:35 | [main] db.DBManager (DBManager.java:42) - HSQL Server started
+INFO  | 2022-06-08 21:33:35 | [main] db.DBManager (DBManager.java:113) - Table alerts created
+INFO  | 2022-06-08 21:33:35 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra already exists
+INFO  | 2022-06-08 21:33:35 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:33:35 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc already exists
+INFO  | 2022-06-08 21:33:35 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:33:35 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra1 already exists
+INFO  | 2022-06-08 21:33:35 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:33:35 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc1 already exists
+INFO  | 2022-06-08 21:33:35 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:33:35 | [main] db.DBManager (DBManager.java:53) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:33:35 | [main] db.DBManager (DBManager.java:60) - HSQL Server stopped
+INFO  | 2022-06-08 21:36:33 | [main] db.DBManager (DBManager.java:42) - HSQL Server started
+INFO  | 2022-06-08 21:36:34 | [main] db.DBManager (DBManager.java:113) - Table alerts created
+INFO  | 2022-06-08 21:36:34 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra already exists
+INFO  | 2022-06-08 21:36:34 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:36:34 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc already exists
+INFO  | 2022-06-08 21:36:34 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:36:34 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra1 already exists
+INFO  | 2022-06-08 21:36:34 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:36:34 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc1 already exists
+INFO  | 2022-06-08 21:36:34 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:36:34 | [main] db.DBManager (DBManager.java:53) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:36:34 | [main] db.DBManager (DBManager.java:60) - HSQL Server stopped
+INFO  | 2022-06-08 21:36:55 | [main] db.DBManager (DBManager.java:42) - HSQL Server started
+INFO  | 2022-06-08 21:36:56 | [main] db.DBManager (DBManager.java:113) - Table alerts created
+INFO  | 2022-06-08 21:36:56 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra already exists
+INFO  | 2022-06-08 21:36:56 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:36:56 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc already exists
+INFO  | 2022-06-08 21:36:56 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:36:56 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra1 already exists
+INFO  | 2022-06-08 21:36:56 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:36:56 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc1 already exists
+INFO  | 2022-06-08 21:36:56 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:36:56 | [main] db.DBManager (DBManager.java:53) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:36:56 | [main] db.DBManager (DBManager.java:60) - HSQL Server stopped
+INFO  | 2022-06-08 21:38:00 | [main] db.DBManager (DBManager.java:42) - HSQL Server started
+INFO  | 2022-06-08 21:38:00 | [main] db.DBManager (DBManager.java:113) - Table alerts created
+INFO  | 2022-06-08 21:38:00 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra already exists
+INFO  | 2022-06-08 21:38:00 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:38:00 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc already exists
+INFO  | 2022-06-08 21:38:00 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:38:00 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgra1 already exists
+INFO  | 2022-06-08 21:38:00 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:38:00 | [Thread-3] db.DBManager (DBManager.java:140) - Row not inserted row as ID scsmbstgrc1 already exists
+INFO  | 2022-06-08 21:38:00 | [Thread-3] db.DBManager (DBManager.java:146) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:38:00 | [main] db.DBManager (DBManager.java:53) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:38:00 | [main] db.DBManager (DBManager.java:60) - HSQL Server stopped
+INFO  | 2022-06-08 21:43:52 | [main] db.DBManager (DBManager.java:42) - HSQL Server started
+INFO  | 2022-06-08 21:43:52 | [main] db.DBManager (DBManager.java:112) - Table alerts created
+INFO  | 2022-06-08 21:43:52 | [Thread-3] db.DBManager (DBManager.java:139) - Row not inserted row as ID scsmbstgra already exists
+INFO  | 2022-06-08 21:43:52 | [Thread-3] db.DBManager (DBManager.java:145) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:43:52 | [Thread-3] db.DBManager (DBManager.java:139) - Row not inserted row as ID scsmbstgrc already exists
+INFO  | 2022-06-08 21:43:52 | [Thread-3] db.DBManager (DBManager.java:145) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:43:52 | [Thread-3] db.DBManager (DBManager.java:139) - Row not inserted row as ID scsmbstgra1 already exists
+INFO  | 2022-06-08 21:43:52 | [Thread-3] db.DBManager (DBManager.java:145) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:43:52 | [Thread-3] db.DBManager (DBManager.java:139) - Row not inserted row as ID scsmbstgrc1 already exists
+INFO  | 2022-06-08 21:43:52 | [Thread-3] db.DBManager (DBManager.java:145) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:43:52 | [main] db.DBManager (DBManager.java:53) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:43:52 | [main] db.DBManager (DBManager.java:59) - HSQL Server stopped
+INFO  | 2022-06-08 21:48:25 | [main] logs.LogAnalyser (LogAnalyser.java:25) - LogAnalyser Process Start
+INFO  | 2022-06-08 21:48:26 | [main] db.DBManager (DBManager.java:42) - HSQL Server started
+INFO  | 2022-06-08 21:48:26 | [main] db.DBManager (DBManager.java:112) - Table alerts created
+INFO  | 2022-06-08 21:48:26 | [Thread-1] logs.LogEventReader (LogEventReader.java:31) - LogEventReader Start
+INFO  | 2022-06-08 21:48:26 | [Thread-1] logs.LogEventReader (LogEventReader.java:55) - LogEventReader End
+INFO  | 2022-06-08 21:48:26 | [Thread-3] db.DBManager (DBManager.java:139) - Row not inserted row as ID scsmbstgra already exists
+INFO  | 2022-06-08 21:48:26 | [Thread-3] db.DBManager (DBManager.java:145) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:48:26 | [Thread-3] db.DBManager (DBManager.java:139) - Row not inserted row as ID scsmbstgrc already exists
+INFO  | 2022-06-08 21:48:26 | [Thread-3] db.DBManager (DBManager.java:145) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:48:26 | [Thread-3] db.DBManager (DBManager.java:139) - Row not inserted row as ID scsmbstgra1 already exists
+INFO  | 2022-06-08 21:48:26 | [Thread-3] db.DBManager (DBManager.java:145) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:48:26 | [Thread-3] db.DBManager (DBManager.java:139) - Row not inserted row as ID scsmbstgrc1 already exists
+INFO  | 2022-06-08 21:48:26 | [Thread-3] db.DBManager (DBManager.java:145) - 0 rows inserted in the db
+INFO  | 2022-06-08 21:48:26 | [main] db.DBManager (DBManager.java:53) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:48:26 | [main] db.DBManager (DBManager.java:59) - HSQL Server stopped
+INFO  | 2022-06-08 21:48:26 | [main] logs.LogAnalyser (LogAnalyser.java:52) - LogAnalyser Process End
+INFO  | 2022-06-08 21:49:54 | [main] logs.LogAnalyser (LogAnalyser.java:25) - LogAnalyser Process Start
+INFO  | 2022-06-08 21:49:54 | [main] db.DBManager (DBManager.java:41) - HSQL Server started
+INFO  | 2022-06-08 21:49:54 | [main] db.DBManager (DBManager.java:111) - Table alerts created
+INFO  | 2022-06-08 21:49:54 | [Thread-1] logs.LogEventReader (LogEventReader.java:31) - LogEventReader Start
+INFO  | 2022-06-08 21:49:54 | [Thread-1] logs.LogEventReader (LogEventReader.java:55) - LogEventReader End
+INFO  | 2022-06-08 21:49:54 | [Thread-3] db.DBManager (DBManager.java:144) - 1 rows inserted in the db
+INFO  | 2022-06-08 21:49:54 | [Thread-3] db.DBManager (DBManager.java:144) - 1 rows inserted in the db
+INFO  | 2022-06-08 21:49:54 | [Thread-3] db.DBManager (DBManager.java:144) - 1 rows inserted in the db
+INFO  | 2022-06-08 21:49:54 | [Thread-3] db.DBManager (DBManager.java:144) - 1 rows inserted in the db
+INFO  | 2022-06-08 21:49:54 | [main] db.DBManager (DBManager.java:52) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:49:54 | [main] db.DBManager (DBManager.java:58) - HSQL Server stopped
+INFO  | 2022-06-08 21:49:54 | [main] logs.LogAnalyser (LogAnalyser.java:52) - LogAnalyser Process End
+INFO  | 2022-06-08 21:52:19 | [main] logs.LogAnalyser (LogAnalyser.java:25) - LogAnalyser Process Start
+INFO  | 2022-06-08 21:52:20 | [main] db.DBManager (DBManager.java:41) - HSQL Server started
+INFO  | 2022-06-08 21:52:20 | [main] db.DBManager (DBManager.java:111) - Table alerts created
+INFO  | 2022-06-08 21:52:20 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:30) - LogEventProcessor Start
+INFO  | 2022-06-08 21:52:20 | [Thread-1] logs.LogEventReader (LogEventReader.java:30) - LogEventReader Start
+INFO  | 2022-06-08 21:52:20 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:74) - LogEventProcessor End
+INFO  | 2022-06-08 21:52:20 | [Thread-1] logs.LogEventReader (LogEventReader.java:54) - LogEventReader End
+INFO  | 2022-06-08 21:52:20 | [Thread-3] db.DBManager (DBManager.java:135) - 1 rows inserted in the db
+INFO  | 2022-06-08 21:52:20 | [Thread-3] db.DBManager (DBManager.java:135) - 1 rows inserted in the db
+INFO  | 2022-06-08 21:52:20 | [Thread-3] db.DBManager (DBManager.java:135) - 1 rows inserted in the db
+INFO  | 2022-06-08 21:52:20 | [Thread-3] db.DBManager (DBManager.java:135) - 1 rows inserted in the db
+INFO  | 2022-06-08 21:52:20 | [main] db.DBManager (DBManager.java:52) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:52:20 | [main] db.DBManager (DBManager.java:58) - HSQL Server stopped
+INFO  | 2022-06-08 21:52:20 | [main] logs.LogAnalyser (LogAnalyser.java:52) - LogAnalyser Process End
+INFO  | 2022-06-08 21:54:18 | [main] logs.LogAnalyser (LogAnalyser.java:25) - LogAnalyser Process Start
+INFO  | 2022-06-08 21:54:18 | [main] db.DBManager (DBManager.java:41) - HSQL Server started
+INFO  | 2022-06-08 21:54:19 | [main] db.DBManager (DBManager.java:111) - Table alerts created
+INFO  | 2022-06-08 21:54:19 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:30) - LogEventProcessor Start
+INFO  | 2022-06-08 21:54:19 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:25) - LogEventWriter Start
+INFO  | 2022-06-08 21:54:19 | [Thread-1] logs.LogEventReader (LogEventReader.java:30) - LogEventReader Start
+INFO  | 2022-06-08 21:54:19 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:74) - LogEventProcessor End
+INFO  | 2022-06-08 21:54:19 | [Thread-1] logs.LogEventReader (LogEventReader.java:54) - LogEventReader End
+INFO  | 2022-06-08 21:54:19 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:42) - LogEventWriter End
+INFO  | 2022-06-08 21:54:19 | [main] db.DBManager (DBManager.java:52) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:54:19 | [main] db.DBManager (DBManager.java:58) - HSQL Server stopped
+INFO  | 2022-06-08 21:54:19 | [main] logs.LogAnalyser (LogAnalyser.java:52) - LogAnalyser Process End
+INFO  | 2022-06-08 21:58:44 | [main] logs.LogAnalyser (LogAnalyser.java:25) - LogAnalyser Process Start
+INFO  | 2022-06-08 21:58:45 | [main] db.DBManager (DBManager.java:41) - HSQL Server started
+INFO  | 2022-06-08 21:58:45 | [main] db.DBManager (DBManager.java:111) - Table alerts created
+INFO  | 2022-06-08 21:58:45 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:30) - LogEventProcessor Start
+INFO  | 2022-06-08 21:58:45 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:23) - LogEventWriter Start
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:30) - LogEventReader Start
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra', state='STARTED', timestamp=1491377495212, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb', state='STARTED', timestamp=1491377495213, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc', state='FINISHED', timestamp=1491377495218, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra', state='FINISHED', timestamp=1491377495217, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc', state='STARTED', timestamp=1491377495210, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb', state='FINISHED', timestamp=1491377495216, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra1', state='STARTED', timestamp=1491377495212, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb1', state='STARTED', timestamp=1491377495213, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc1', state='FINISHED', timestamp=1491377495218, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra1', state='FINISHED', timestamp=1491377495217, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc1', state='STARTED', timestamp=1491377495210, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb1', state='FINISHED', timestamp=1491377495216, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:58:45 | [Thread-1] logs.LogEventReader (LogEventReader.java:55) - LogEventReader End
+INFO  | 2022-06-08 21:58:45 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:74) - LogEventProcessor End
+INFO  | 2022-06-08 21:58:45 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:38) - LogEventWriter End
+INFO  | 2022-06-08 21:58:45 | [main] db.DBManager (DBManager.java:52) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:58:45 | [main] db.DBManager (DBManager.java:58) - HSQL Server stopped
+INFO  | 2022-06-08 21:58:45 | [main] logs.LogAnalyser (LogAnalyser.java:52) - LogAnalyser Process End
+INFO  | 2022-06-08 21:59:41 | [main] logs.LogAnalyser (LogAnalyser.java:25) - LogAnalyser Process Start
+INFO  | 2022-06-08 21:59:41 | [main] db.DBManager (DBManager.java:41) - HSQL Server started
+INFO  | 2022-06-08 21:59:41 | [main] db.DBManager (DBManager.java:111) - Table alerts created
+INFO  | 2022-06-08 21:59:41 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:23) - LogEventWriter Start
+INFO  | 2022-06-08 21:59:41 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:30) - LogEventProcessor Start
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:30) - LogEventReader Start
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra', state='STARTED', timestamp=1491377495212, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb', state='STARTED', timestamp=1491377495213, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc', state='FINISHED', timestamp=1491377495218, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra', state='FINISHED', timestamp=1491377495217, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc', state='STARTED', timestamp=1491377495210, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb', state='FINISHED', timestamp=1491377495216, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra1', state='STARTED', timestamp=1491377495212, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb1', state='STARTED', timestamp=1491377495213, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc1', state='FINISHED', timestamp=1491377495218, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra1', state='FINISHED', timestamp=1491377495217, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc1', state='STARTED', timestamp=1491377495210, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb1', state='FINISHED', timestamp=1491377495216, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-1] logs.LogEventReader (LogEventReader.java:55) - LogEventReader End
+INFO  | 2022-06-08 21:59:41 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgra', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:59:41 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgrc', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgra1', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 21:59:41 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgrc1', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 21:59:41 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:75) - LogEventProcessor End
+INFO  | 2022-06-08 21:59:41 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:38) - LogEventWriter End
+INFO  | 2022-06-08 21:59:41 | [main] db.DBManager (DBManager.java:52) - Connection to HSQL Server closed
+INFO  | 2022-06-08 21:59:41 | [main] db.DBManager (DBManager.java:58) - HSQL Server stopped
+INFO  | 2022-06-08 21:59:41 | [main] logs.LogAnalyser (LogAnalyser.java:52) - LogAnalyser Process End
+INFO  | 2022-06-08 22:00:41 | [main] logs.LogAnalyser (LogAnalyser.java:25) - LogAnalyser Process Start
+INFO  | 2022-06-08 22:00:41 | [main] db.DBManager (DBManager.java:41) - HSQL Server started
+INFO  | 2022-06-08 22:00:42 | [main] db.DBManager (DBManager.java:111) - Table alerts created
+INFO  | 2022-06-08 22:00:42 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:30) - LogEventProcessor Start
+INFO  | 2022-06-08 22:00:42 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:23) - LogEventWriter Start
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:30) - LogEventReader Start
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra', state='STARTED', timestamp=1491377495212, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb', state='STARTED', timestamp=1491377495213, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc', state='FINISHED', timestamp=1491377495218, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra', state='FINISHED', timestamp=1491377495217, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc', state='STARTED', timestamp=1491377495210, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb', state='FINISHED', timestamp=1491377495216, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgra', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra1', state='STARTED', timestamp=1491377495212, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:00:42 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgrc', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:32) - LogEventWriter LogEvent{id='scsmbstgra', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb1', state='STARTED', timestamp=1491377495213, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc1', state='FINISHED', timestamp=1491377495218, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra1', state='FINISHED', timestamp=1491377495217, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc1', state='STARTED', timestamp=1491377495210, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgra1', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb1', state='FINISHED', timestamp=1491377495216, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:32) - LogEventWriter LogEvent{id='scsmbstgrc', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgrc1', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-1] logs.LogEventReader (LogEventReader.java:55) - LogEventReader End
+INFO  | 2022-06-08 22:00:42 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:75) - LogEventProcessor End
+INFO  | 2022-06-08 22:00:42 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:32) - LogEventWriter LogEvent{id='scsmbstgra1', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:00:42 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:32) - LogEventWriter LogEvent{id='scsmbstgrc1', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:00:42 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:39) - LogEventWriter End
+INFO  | 2022-06-08 22:00:42 | [main] db.DBManager (DBManager.java:52) - Connection to HSQL Server closed
+INFO  | 2022-06-08 22:00:42 | [main] db.DBManager (DBManager.java:58) - HSQL Server stopped
+INFO  | 2022-06-08 22:00:42 | [main] logs.LogAnalyser (LogAnalyser.java:52) - LogAnalyser Process End
+INFO  | 2022-06-08 22:01:01 | [main] logs.LogAnalyser (LogAnalyser.java:25) - LogAnalyser Process Start
+INFO  | 2022-06-08 22:01:01 | [main] db.DBManager (DBManager.java:41) - HSQL Server started
+INFO  | 2022-06-08 22:01:01 | [main] db.DBManager (DBManager.java:111) - Table alerts created
+INFO  | 2022-06-08 22:01:01 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:23) - LogEventWriter Start
+INFO  | 2022-06-08 22:01:01 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:30) - LogEventProcessor Start
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:30) - LogEventReader Start
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra', state='STARTED', timestamp=1491377495212, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb', state='STARTED', timestamp=1491377495213, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc', state='FINISHED', timestamp=1491377495218, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra', state='FINISHED', timestamp=1491377495217, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc', state='STARTED', timestamp=1491377495210, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb', state='FINISHED', timestamp=1491377495216, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgra', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra1', state='STARTED', timestamp=1491377495212, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:01:01 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgrc', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb1', state='STARTED', timestamp=1491377495213, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:32) - LogEventWriter LogEvent{id='scsmbstgra', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc1', state='FINISHED', timestamp=1491377495218, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgra1', state='FINISHED', timestamp=1491377495217, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrc1', state='STARTED', timestamp=1491377495210, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:37) - Event Read : FileLogEvent{id='scsmbstgrb1', state='FINISHED', timestamp=1491377495216, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:32) - LogEventWriter LogEvent{id='scsmbstgrc', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgra1', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:01:01 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:60) - LogEventProcessor LogEvent{id='scsmbstgrc1', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-1] logs.LogEventReader (LogEventReader.java:55) - LogEventReader End
+INFO  | 2022-06-08 22:01:01 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:32) - LogEventWriter LogEvent{id='scsmbstgra1', duration=5, type=Optional[APPLICATION_LOG], host=Optional[127.0.0.1]}
+INFO  | 2022-06-08 22:01:01 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:75) - LogEventProcessor End
+INFO  | 2022-06-08 22:01:01 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:32) - LogEventWriter LogEvent{id='scsmbstgrc1', duration=8, type=Optional.empty, host=Optional.empty}
+INFO  | 2022-06-08 22:01:01 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:39) - LogEventWriter End
+INFO  | 2022-06-08 22:01:01 | [main] db.DBManager (DBManager.java:52) - Connection to HSQL Server closed
+INFO  | 2022-06-08 22:01:01 | [main] db.DBManager (DBManager.java:58) - HSQL Server stopped
+INFO  | 2022-06-08 22:01:01 | [main] logs.LogAnalyser (LogAnalyser.java:52) - LogAnalyser Process End
+INFO  | 2022-06-08 22:10:23 | [main] logs.LogAnalyserTest (LogAnalyserTest.java:51) - Starting execution of main
+ERROR | 2022-06-08 22:10:23 | [main] logs.LogAnalyserTest (LogAnalyserTest.java:61) - Exception in execution ofmain-java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at org.logs.LogAnalyser.main(LogAnalyser.java:61) ~[classes/:?]
+	at org.logs.LogAnalyserTest.main(LogAnalyserTest.java:57) [test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:33) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:220) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:53) [junit-rt.jar:?]
+INFO  | 2022-06-08 22:11:00 | [main] logs.LogAnalyserTest (LogAnalyserTest.java:34) - Starting execution of process
+INFO  | 2022-06-08 22:11:00 | [main] logs.LogAnalyser (LogAnalyser.java:25) - LogAnalyser Process Start
+INFO  | 2022-06-08 22:11:00 | [main] db.DBManager (DBManager.java:41) - HSQL Server started
+INFO  | 2022-06-08 22:11:00 | [main] db.DBManager (DBManager.java:111) - Table alerts created
+INFO  | 2022-06-08 22:11:00 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:23) - LogEventWriter Start
+INFO  | 2022-06-08 22:11:00 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:30) - LogEventProcessor Start
+INFO  | 2022-06-08 22:11:00 | [Thread-1] logs.LogEventReader (LogEventReader.java:30) - LogEventReader Start
+ERROR | 2022-06-08 22:11:00 | [Thread-1] logs.LogEventReader (LogEventReader.java:52) -  (The system cannot find the path specified)
+java.io.FileNotFoundException:  (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:75) ~[?:?]
+	at org.logs.LogEventReader.run(LogEventReader.java:31) [classes/:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+INFO  | 2022-06-08 23:14:36 | [main] logs.LogAnalyserTest (LogAnalyserTest.java:16) - Starting execution of setLogFilePath
+INFO  | 2022-06-08 23:14:51 | [main] logs.LogAnalyserTest (LogAnalyserTest.java:34) - Starting execution of process
+INFO  | 2022-06-08 23:14:51 | [main] logs.LogAnalyser (LogAnalyser.java:27) - LogAnalyser Process Start
+ERROR | 2022-06-08 23:14:51 | [main] logs.LogAnalyserTest (LogAnalyserTest.java:41) - Exception in execution ofprocess-java.lang.Exception: FileNotFound
+java.lang.Exception: FileNotFound
+	at org.logs.LogAnalyser.process(LogAnalyser.java:30) ~[classes/:?]
+	at org.logs.LogAnalyserTest.process(LogAnalyserTest.java:37) [test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:33) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:220) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:53) [junit-rt.jar:?]
+INFO  | 2022-06-08 23:18:22 | [main] logs.LogAnalyserTest (LogAnalyserTest.java:20) - Starting execution of process
+INFO  | 2022-06-08 23:18:22 | [main] logs.LogAnalyser (LogAnalyser.java:27) - LogAnalyser Process Start
+INFO  | 2022-06-08 23:18:23 | [main] db.DBManager (DBManager.java:41) - HSQL Server started
+INFO  | 2022-06-08 23:18:23 | [main] db.DBManager (DBManager.java:111) - Table alerts created
+INFO  | 2022-06-08 23:18:23 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:30) - LogEventProcessor Start
+INFO  | 2022-06-08 23:18:23 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:23) - LogEventWriter Start
+INFO  | 2022-06-08 23:18:23 | [Thread-1] logs.LogEventReader (LogEventReader.java:30) - LogEventReader Start
+INFO  | 2022-06-08 23:18:23 | [Thread-3] logs.LogEventWriter (LogEventWriter.java:39) - LogEventWriter End
+INFO  | 2022-06-08 23:18:23 | [Thread-1] logs.LogEventReader (LogEventReader.java:55) - LogEventReader End
+INFO  | 2022-06-08 23:18:23 | [Thread-2] logs.LogEventProcessor (LogEventProcessor.java:75) - LogEventProcessor End
+INFO  | 2022-06-08 23:18:23 | [main] db.DBManager (DBManager.java:52) - Connection to HSQL Server closed
+INFO  | 2022-06-08 23:18:23 | [main] db.DBManager (DBManager.java:58) - HSQL Server stopped
+INFO  | 2022-06-08 23:18:23 | [main] logs.LogAnalyser (LogAnalyser.java:58) - LogAnalyser Process End
